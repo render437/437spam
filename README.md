@@ -112,4 +112,4 @@ This project is for educational exploration. Contributions are not actively soug
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. *(You would need to create a `LICENSE.md` file with the MIT License text if you want to formally license it.)*
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/render437/437spam/blob/main/LICENSE) file for details. *(You would need to create a `LICENSE.md` file with the MIT License text if you want to formally license it.)*
