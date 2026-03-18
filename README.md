@@ -46,10 +46,9 @@ The use of this tool for sending unsolicited messages or making spam calls is il
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your_username/437spam.git
+    git clone https://github.com/render437/437spam.git
     cd 437spam
     ```
-    *(Replace `your_username` with your actual GitHub username)*
 
 2.  **Install Dependencies:**
     This project primarily uses standard Python libraries. If you integrate with third-party services (like Twilio for SMS/Calls), you'll need to install their SDKs.
