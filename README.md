@@ -19,7 +19,7 @@ The use of this tool for sending unsolicited messages or making spam calls is il
     *(Note: Actual SMS and Call functionality requires integration with third-party services like Twilio and associated costs.)*
 
 ## Project Structure
-
+```
 437spam/
 ├── interactive_spammer_tool/
 │   ├── init.py
@@ -34,8 +34,7 @@ The use of this tool for sending unsolicited messages or making spam calls is il
 │   └── config.py             # Configuration settings (email credentials, API keys)
 ├── .gitignore                # Specifies intentionally untracked files
 └── README.md                 # This file
-
-
+```
 ## Getting Started
 
 ### Prerequisites
